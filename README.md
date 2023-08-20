@@ -1,4 +1,4 @@
-# Monitoring-crypto-price <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Binance_Logo.svg/2048px-Binance_Logo.svg.png" width="20" height="20" />:
+# Monitoring-crypto-price <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Binance_Logo.svg/2048px-Binance_Logo.svg.png" width="20" height="20" />
 
 
 ### Language and module:
